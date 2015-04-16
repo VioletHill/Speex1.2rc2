@@ -1,0 +1,89 @@
+Making clean in libspeex
+test -z "libspeex.la" || rm -f libspeex.la
+rm -f ./so_locations
+rm -rf .libs _libs
+rm -f *.o
+rm -f *.lo
+Making clean in include
+Making clean in speex
+rm -rf .libs _libs
+rm -f *.lo
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in doc
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in win32
+Making clean in libspeex
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in speexenc
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in speexdec
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in VS2003
+Making clean in libspeex
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in speexenc
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in speexdec
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in tests
+rm -rf .libs _libs
+rm -f *.lo
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in VS2005
+Making clean in libspeex
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in speexenc
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in speexdec
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in tests
+rm -rf .libs _libs
+rm -f *.lo
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in VS2008
+Making clean in libspeex
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in speexenc
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in speexdec
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in tests
+rm -rf .libs _libs
+rm -f *.lo
+rm -rf .libs _libs
+rm -f *.lo
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in symbian
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in ti
+Making clean in speex_C54_test
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in speex_C55_test
+rm -rf .libs _libs
+rm -f *.lo
+Making clean in speex_C64_test
+rm -rf .libs _libs
+rm -f *.lo
+rm -rf .libs _libs
+rm -f *.lo
+rm -rf .libs _libs
+rm -f *.lo

@@ -1,0 +1,88 @@
+/Applications/Xcode.app/Contents/Developer/usr/bin/make  all-recursive
+Making all in libspeex
+  CC       cb_search.lo
+  CC       exc_10_32_table.lo
+  CC       exc_8_128_table.lo
+  CC       filters.lo
+  CC       gain_table.lo
+  CC       hexc_table.lo
+  CC       high_lsp_tables.lo
+  CC       lsp.lo
+  CC       ltp.lo
+  CC       speex.lo
+  CC       stereo.lo
+  CC       vbr.lo
+  CC       vq.lo
+  CC       bits.lo
+  CC       exc_10_16_table.lo
+  CC       exc_20_32_table.lo
+  CC       exc_5_256_table.lo
+  CC       exc_5_64_table.lo
+  CC       gain_table_lbr.lo
+  CC       hexc_10_32_table.lo
+  CC       lpc.lo
+  CC       lsp_tables_nb.lo
+  CC       modes.lo
+  CC       modes_wb.lo
+  CC       nb_celp.lo
+  CC       quant_lsp.lo
+  CC       sb_celp.lo
+  CC       speex_callbacks.lo
+  CC       speex_header.lo
+  CC       window.lo
+  CCLD     libspeex.la
+Making all in include
+Making all in speex
+make[3]: Nothing to be done for `all'.
+make[3]: Nothing to be done for `all-am'.
+Making all in doc
+make[2]: Nothing to be done for `all'.
+Making all in win32
+Making all in libspeex
+make[3]: Nothing to be done for `all'.
+Making all in speexenc
+make[3]: Nothing to be done for `all'.
+Making all in speexdec
+make[3]: Nothing to be done for `all'.
+Making all in VS2003
+Making all in libspeex
+make[4]: Nothing to be done for `all'.
+Making all in speexenc
+make[4]: Nothing to be done for `all'.
+Making all in speexdec
+make[4]: Nothing to be done for `all'.
+Making all in tests
+make[4]: Nothing to be done for `all'.
+make[4]: Nothing to be done for `all-am'.
+Making all in VS2005
+Making all in libspeex
+make[4]: Nothing to be done for `all'.
+Making all in speexenc
+make[4]: Nothing to be done for `all'.
+Making all in speexdec
+make[4]: Nothing to be done for `all'.
+Making all in tests
+make[4]: Nothing to be done for `all'.
+make[4]: Nothing to be done for `all-am'.
+Making all in VS2008
+Making all in libspeex
+make[4]: Nothing to be done for `all'.
+Making all in speexenc
+make[4]: Nothing to be done for `all'.
+Making all in speexdec
+make[4]: Nothing to be done for `all'.
+Making all in tests
+make[4]: Nothing to be done for `all'.
+make[4]: Nothing to be done for `all-am'.
+make[3]: Nothing to be done for `all-am'.
+Making all in symbian
+make[2]: Nothing to be done for `all'.
+Making all in ti
+Making all in speex_C54_test
+make[3]: Nothing to be done for `all'.
+Making all in speex_C55_test
+make[3]: Nothing to be done for `all'.
+Making all in speex_C64_test
+make[3]: Nothing to be done for `all'.
+make[3]: Nothing to be done for `all-am'.
+make[2]: Nothing to be done for `all-am'.

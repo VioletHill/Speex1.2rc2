@@ -1,0 +1,98 @@
+Making install in libspeex
+ /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/install-sh -c -d '/Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/lib'
+ /bin/sh ../libtool   --mode=install /usr/bin/install -c   libspeex.la '/Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/lib'
+libtool: install: /usr/bin/install -c .libs/libspeex.lai /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/lib/libspeex.la
+libtool: install: /usr/bin/install -c .libs/libspeex.a /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/lib/libspeex.a
+libtool: install: chmod 644 /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/lib/libspeex.a
+libtool: install: ranlib /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/lib/libspeex.a
+make[2]: Nothing to be done for `install-data-am'.
+Making install in include
+Making install in speex
+make[3]: Nothing to be done for `install-exec-am'.
+ /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/install-sh -c -d '/Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/include/speex'
+ /usr/bin/install -c -m 644 speex_config_types.h '/Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/include/speex'
+ /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/install-sh -c -d '/Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/include/speex'
+ /usr/bin/install -c -m 644 /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/include/speex/speex.h /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/include/speex/speex_bits.h /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/include/speex/speex_callbacks.h /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/include/speex/speex_header.h /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/include/speex/speex_stereo.h /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/include/speex/speex_types.h '/Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/include/speex'
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in doc
+make[2]: Nothing to be done for `install-exec-am'.
+ /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/install-sh -c -d '/Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/share/doc/speex'
+ /usr/bin/install -c -m 644 /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/doc/manual.pdf '/Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/share/doc/speex'
+Making install in win32
+Making install in libspeex
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in speexenc
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in speexdec
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in VS2003
+Making install in libspeex
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in speexenc
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in speexdec
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in tests
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in VS2005
+Making install in libspeex
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in speexenc
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in speexdec
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in tests
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in VS2008
+Making install in libspeex
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in speexenc
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in speexdec
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+Making install in tests
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+make[4]: Nothing to be done for `install-exec-am'.
+make[4]: Nothing to be done for `install-data-am'.
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in symbian
+make[2]: Nothing to be done for `install-exec-am'.
+make[2]: Nothing to be done for `install-data-am'.
+Making install in ti
+Making install in speex_C54_test
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in speex_C55_test
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+Making install in speex_C64_test
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+make[3]: Nothing to be done for `install-exec-am'.
+make[3]: Nothing to be done for `install-data-am'.
+make[2]: Nothing to be done for `install-exec-am'.
+ /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/install-sh -c -d '/Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/share/aclocal'
+ /usr/bin/install -c -m 644 /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/speex.m4 '/Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/share/aclocal'
+ /Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/speex-1.2rc2/install-sh -c -d '/Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/lib/pkgconfig'
+ /usr/bin/install -c -m 644 speex.pc '/Users/LazyBear/Downloads/SpeexBuild/IDZBuildRoot/libspeex/1.2rc2/install-iPhoneOS-armv7s/lib/pkgconfig'
